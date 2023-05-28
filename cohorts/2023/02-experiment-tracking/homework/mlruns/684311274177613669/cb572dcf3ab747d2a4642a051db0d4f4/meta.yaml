@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/LouisReinaldo/Documents/mlops-zoomcamp/cohorts/2023/02-experiment-tracking/homework/mlruns/684311274177613669/cb572dcf3ab747d2a4642a051db0d4f4/artifacts
+end_time: 1685254809707
+entry_point_name: ''
+experiment_id: '684311274177613669'
+lifecycle_stage: active
+run_id: cb572dcf3ab747d2a4642a051db0d4f4
+run_name: sedate-mouse-759
+run_uuid: cb572dcf3ab747d2a4642a051db0d4f4
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1685254804036
+status: 4
+tags: []
+user_id: LouisReinaldo

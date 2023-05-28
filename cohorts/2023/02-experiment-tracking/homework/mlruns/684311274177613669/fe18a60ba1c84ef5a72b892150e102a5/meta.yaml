@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/LouisReinaldo/Documents/mlops-zoomcamp/cohorts/2023/02-experiment-tracking/homework/mlruns/684311274177613669/fe18a60ba1c84ef5a72b892150e102a5/artifacts
+end_time: 1685255995508
+entry_point_name: ''
+experiment_id: '684311274177613669'
+lifecycle_stage: active
+run_id: fe18a60ba1c84ef5a72b892150e102a5
+run_name: efficient-gnat-61
+run_uuid: fe18a60ba1c84ef5a72b892150e102a5
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1685255989919
+status: 4
+tags: []
+user_id: LouisReinaldo

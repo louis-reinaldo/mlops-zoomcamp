@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/LouisReinaldo/Documents/mlops-zoomcamp/cohorts/2023/02-experiment-tracking/homework/mlruns/0/230ea9516a9b4d3cbdc2232a66840df0/artifacts
+end_time: 1685256315563
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 230ea9516a9b4d3cbdc2232a66840df0
+run_name: thoughtful-grub-10
+run_uuid: 230ea9516a9b4d3cbdc2232a66840df0
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1685256309930
+status: 3
+tags: []
+user_id: LouisReinaldo
